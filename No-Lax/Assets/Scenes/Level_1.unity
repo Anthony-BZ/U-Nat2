@@ -2794,7 +2794,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20baee048c45d324d9b5906794d2e485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 500
+  speed: 2000
   ways: {fileID: 1350887183}
   wayPoints: []
 --- !u!114 &426654635
@@ -4124,7 +4124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20baee048c45d324d9b5906794d2e485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 500
+  speed: 2000
   ways: {fileID: 920610191}
   wayPoints: []
 --- !u!114 &638449109
@@ -4836,7 +4836,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20baee048c45d324d9b5906794d2e485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 500
+  speed: 2000
   ways: {fileID: 560094436}
   wayPoints: []
 --- !u!114 &741242104
@@ -5809,7 +5809,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20baee048c45d324d9b5906794d2e485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 500
+  speed: 2000
   ways: {fileID: 122401298}
   wayPoints: []
 --- !u!114 &920962261
@@ -6195,7 +6195,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce8c398f7c47b6d4bb291d9ef2a1c4e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 2000
+  moveSpeed: 1200
   rb: {fileID: 986007981}
 --- !u!1 &992376933
 GameObject:
@@ -6782,7 +6782,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20baee048c45d324d9b5906794d2e485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 500
+  speed: 2000
   ways: {fileID: 669918695}
   wayPoints: []
 --- !u!1 &1047805238
@@ -7756,7 +7756,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20baee048c45d324d9b5906794d2e485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 500
+  speed: 1000
   ways: {fileID: 1711123946}
   wayPoints: []
 --- !u!114 &1246485586
@@ -8627,7 +8627,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20baee048c45d324d9b5906794d2e485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 500
+  speed: 2000
   ways: {fileID: 164279361}
   wayPoints: []
 --- !u!114 &1453125716
@@ -8932,7 +8932,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20baee048c45d324d9b5906794d2e485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 500
+  speed: 1000
   ways: {fileID: 774664196}
   wayPoints: []
 --- !u!114 &1527881586
@@ -9073,7 +9073,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20baee048c45d324d9b5906794d2e485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 500
+  speed: 1000
   ways: {fileID: 198133296}
   wayPoints: []
 --- !u!114 &1539212529
@@ -12859,7 +12859,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20baee048c45d324d9b5906794d2e485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 500
+  speed: 1000
   ways: {fileID: 1148130852}
   wayPoints: []
 --- !u!114 &1991208403
@@ -13713,7 +13713,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20baee048c45d324d9b5906794d2e485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 500
+  speed: 1000
   ways: {fileID: 1749340571}
   wayPoints: []
 --- !u!114 &2088354171
